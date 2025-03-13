@@ -1,10 +1,6 @@
 # Homework Module: Algorithmic Complexity, Approximate and Randomized Algorithms
 
-===========================================================
-
 ## Overview
-
----
 
 This homework model focuses on implementing and comparing algorithms related to algorithmic complexity and greedy algorithms. It consists of two main tasks:
 
@@ -12,8 +8,6 @@ This homework model focuses on implementing and comparing algorithms related to 
 2. **Class Schedule Creation**: Using a greedy algorithm to create a class schedule that minimizes the number of teachers required to cover all subjects.
 
 ## Tasks Description
-
----
 
 ### Task 1: QuickSort Comparison
 
@@ -32,8 +26,6 @@ This homework model focuses on implementing and comparing algorithms related to 
   - Display the schedule and indicate if any subjects cannot be covered.
 
 ## Results
-
----
 
 ### Task 1: QuickSort Comparison
 
