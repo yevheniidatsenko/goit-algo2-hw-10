@@ -1,4 +1,4 @@
-# Homework Module: Algorithmic Complexity and Greedy Algorithms
+# Homework Module: Algorithmic Complexity, Approximate and Randomized Algorithms
 
 ===========================================================
 
